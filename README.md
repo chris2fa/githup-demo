@@ -1,2 +1,2 @@
 # GITHUB Demo
-FRirst file created in Github
+First file created in Github
