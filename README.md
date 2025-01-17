@@ -1,2 +1,4 @@
 # GITHUB Demo
-First file created in Github
+First file created in Git
+
+Adding a new line
